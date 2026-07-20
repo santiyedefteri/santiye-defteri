@@ -1,4 +1,4 @@
-const CACHE_NAME = "santiye-defteri-v2.0.0";
+const CACHE_NAME = "santiye-defteri-v2.1.0";
 
 self.addEventListener("install", () => {
   self.skipWaiting();
